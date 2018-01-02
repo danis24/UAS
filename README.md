@@ -83,4 +83,5 @@ ada beberapa clue yang bisa di jadikan sebagai celah dalam UAS kali ini.
 ]
 ```
 ### NOTE :
+- setting PHP PATH di C:/xampp/php copy ke environment variable computer masing-masing
 - Lakukan Eksekusi menggunakan terminal `php index.php`
