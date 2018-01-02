@@ -83,4 +83,4 @@ ada beberapa clue yang bisa di jadikan sebagai celah dalam UAS kali ini.
 ]
 ```
 ### NOTE :
-- Lakukan Eksekusi bisa via CURL, POSTMAN ataupun yang lainya
+- Lakukan Eksekusi menggunakan terminal `php index.php`
