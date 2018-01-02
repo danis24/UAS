@@ -1,6 +1,6 @@
 # UAS PRAKTIKUM PENGEMBANGAN APLIKASI WEB
 ### Kelas ..
-### Waktu : 90 Menit
+### Waktu : +- 90 Menit
 ## Rules
 Ada beberapa peraturan yang harus temen - temen pahami dalam UAS kali ini di antaranya :
 
